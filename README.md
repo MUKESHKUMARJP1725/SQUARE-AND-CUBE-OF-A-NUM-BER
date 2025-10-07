@@ -27,8 +27,10 @@ END
 ```
 
 ## OUTPUT
-<img width="248" height="219" alt="Screenshot 2025-09-23 203950" src="https://github.com/user-attachments/assets/a9f63ad4-39c6-479f-909c-f53cc87cf6dc" />
-<img width="1439" height="704" alt="image" src="https://github.com/user-attachments/assets/0c1899ce-26c3-47b5-b610-6de984b395cc" />
+![WhatsApp Image 2025-10-07 at 22 50 46_f6ee2649](https://github.com/user-attachments/assets/bb254ae4-c3fa-43fa-90ad-7ee4462494b8)
+
+![WhatsApp Image 2025-10-07 at 22 51 02_3f007542](https://github.com/user-attachments/assets/8d792c9d-0cb3-4f5e-9a71-d6328e1bcfbb)
+
 
 
 ## RESULT
@@ -67,8 +69,8 @@ END
 
 
 ## OUTPUT
-<img width="315" height="300" alt="Screenshot 2025-09-23 232516" src="https://github.com/user-attachments/assets/a0b4ba6c-0cf1-4651-8f8b-68cd66e26310" />
-<img width="1920" height="1080" alt="Screenshot 2025-09-23 232505" src="https://github.com/user-attachments/assets/473c1556-0c86-4c71-9c61-66f3b76e966a" />
+![WhatsApp Image 2025-10-07 at 22 35 26_0ae31e38](https://github.com/user-attachments/assets/c8c4c453-a3db-434c-8c86-6b565743c4a3)
+![WhatsApp Image 2025-10-07 at 22 35 46_4d4f2464](https://github.com/user-attachments/assets/2ebb03fd-7d00-4959-9454-b5dede25cadf)
 
 ## RESULT
 Thus, the cube of the given data is calculated using 8051 Keil.
